@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\Amine\\Desktop\\peepers-master2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\Amine\\Desktop\\peepers-master2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 41,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 45,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "C:\\Users\\Amine\\Desktop\\peepers-master2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 45,
+                        "endOffset": 749
+                    }
+                }
+            }
+        ]
+    }
+]
